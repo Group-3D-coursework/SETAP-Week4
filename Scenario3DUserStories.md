@@ -7,6 +7,9 @@
 <p>
   <ul>
     <li>Do you know the difference between various PC components, such as the processor, RAM, or graphics card? If not, would you appreciate explanations within the tool?</li>
+    <li>Do you understand what different computer components do, or would you like the tool to include explanations or guides?</li>
+    <li>What are the most important details you want to compare when looking at different PC parts (e.g., price, brand, performance ratings)</li>
+    <li>Do you prefer a side-by-side comparison layout, or do you want to see individual products one at a time?</li>
   </ul>
 </p>
-<p>1. </p>
+
