@@ -4,4 +4,7 @@
 <p>
 <h2> User Stories </h2>
 <h3> Questions To User </h3>
+<p>
+  <ul>Do you know the difference between various PC components, such as the processor, RAM, or graphics card? If not, would you appreciate explanations within the tool?</ul>
+</p>
 <p>1. </p>
